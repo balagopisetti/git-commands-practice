@@ -37,3 +37,12 @@ mkdir -p dog/cat/milk/goat/grass
 ls
 tree
 yum install tree
+ls
+git init
+git status
+git add .
+git status
+git commit -m "new"
+git push origin master
+git log
+git clone https://github.com/balagopisetti/suma.git
